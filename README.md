@@ -1,4 +1,4 @@
-<i> The following repository is still being worked upon and changes may occur.<i>
+<i> The following repository is still being worked upon and changes may occur.</i>
 
 Visual attention is critical for everyday task performance and safety. It allows people to detect and process critical visual objects, information, and potential hazards in an environment to respond to (Carrasco, 2011). An individual’s ability to distribute visual attention in space can be assessed by a computerized task that measures an ability to detect and respond to visual targets in a wide area of one’s focal and peripheral visual field. The Attentional Visual Field (AVF) task is a computerized task that displays a visual stimulus on a computer screen, and people need to identify a target among distractors while attending to a large visual field (Feng et al., 2017; Feng & Spence 2014). 
 
